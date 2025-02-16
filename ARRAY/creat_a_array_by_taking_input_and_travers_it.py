@@ -18,3 +18,13 @@ print(f"The {size}-dimensioned array is: {arr}")
 # traversing the array
 for i in range(size):
     print(f"The element {i+1} is : {arr[i]} and its index is : {i}")
+
+
+
+
+
+
+
+
+
+    
