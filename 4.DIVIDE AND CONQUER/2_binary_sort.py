@@ -4,7 +4,7 @@ def binarySearch(arr, i, j, key):
 
     mid = i + (j - i) // 2
 
-    if arr[mid] == key:
+    if arr[mid] == key:  
         return mid
     elif arr[mid] < key:
         return binarySearch(arr, mid + 1, j, key)
