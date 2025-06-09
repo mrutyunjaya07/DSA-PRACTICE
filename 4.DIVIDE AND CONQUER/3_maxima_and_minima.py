@@ -36,7 +36,7 @@ def findMaximaAndMinima(arr,i,j):
     return minimum,maximum
 
 #input array
-arr=[23,6,98,887,34,0,56,-9]
+arr=[23,6,98,887,34,0,56,-9,98]
 #function call
 minimum,maximum=findMaximaAndMinima(arr,0,len(arr)-1)
 #print statement
