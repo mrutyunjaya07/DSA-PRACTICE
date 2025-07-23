@@ -1,7 +1,7 @@
 # Function definition
 def factorial(num):
     # Base case
-    if num == 0 or num == 1:
+    if num == 0 :
         return 1
     elif num < 0:
         return "Invalid input !!"
