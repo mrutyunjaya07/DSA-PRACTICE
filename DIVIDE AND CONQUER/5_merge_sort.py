@@ -69,3 +69,7 @@ j = len(arr) - 1
 ## function calling
 result = mergeSort(arr, i, j)
 print("Sorted array after applying the merge sort is:", result)
+
+
+
+

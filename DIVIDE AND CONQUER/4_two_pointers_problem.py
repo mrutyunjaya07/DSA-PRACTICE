@@ -17,3 +17,8 @@ arr=[20,40,45,60,70,90]
 target=130
 result=twoPointers(arr,target)
 print(result)  
+
+
+
+
+
