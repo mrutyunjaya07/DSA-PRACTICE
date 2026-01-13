@@ -19,3 +19,5 @@ print(result)  # Output: [0, 1]
 
 
 # enumerate function --> index and value while iterating through the list with fixed order
+
+
