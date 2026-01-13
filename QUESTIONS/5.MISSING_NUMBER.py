@@ -15,3 +15,5 @@ def missingNumber(arr):
 # Example usage:
 array = [3, 0, 1]       
 print(missingNumber(array))  # Output: 2
+
+
