@@ -1,5 +1,8 @@
 # Create a linked list from a given list .
 
+
+
+
 # creating a node class
 class node:
     def __init__(self, data=None, next=None):
