@@ -18,3 +18,6 @@ ways = countWays(num)
 
 # Display the result
 print(f"Number of ways to reach F({num}) is: {ways}")
+
+
+
