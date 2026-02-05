@@ -40,6 +40,9 @@ class LinkedList:
         print("None")   # to mark end of the linked list
 
 
+
+
+
 # Example usage
 num = [10, 89, 9, 56, 56]
 ll = LinkedList()
