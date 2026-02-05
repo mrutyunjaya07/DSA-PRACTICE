@@ -43,6 +43,9 @@ class LinkedList:
 
 
 
+
+
+
 # Example usage
 num = [10, 89, 9, 56, 56]
 ll = LinkedList()
