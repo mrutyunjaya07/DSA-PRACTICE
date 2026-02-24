@@ -1,4 +1,4 @@
-given the number n, count the number of digits in n.        
+# given the number n, count the number of digits in n.        
 
 def count_digits(n):
     count = 0
